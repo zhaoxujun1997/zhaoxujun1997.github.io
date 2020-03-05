@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://zhaoxujun1997.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-05T15:50:55.825Z</updated>
+    <title>SKKU 허윤</title>
+    <updated>2020-03-05T15:51:45.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://zhaoxujun1997.github.io"/>
     <link rel="self" href="https://https://zhaoxujun1997.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>기술 기록</subtitle>
     <logo>https://https://zhaoxujun1997.github.io/images/avatar.png</logo>
     <icon>https://https://zhaoxujun1997.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, SKKU 허윤</rights>
     <entry>
         <title type="html"><![CDATA[안녕]]></title>
         <id>https://https://zhaoxujun1997.github.io/post/annyeong/</id>
